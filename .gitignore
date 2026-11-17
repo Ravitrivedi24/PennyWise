@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+Data/transaction.json
+Data/transactions.json
+data/transaction.json
+data/transactions.json
+
+Data/transaction.json.tmp
+data/transactions.json.tmp
